@@ -29,7 +29,7 @@ Aplicación web de gestión académica desarrollada con **Vue 3 + Vite**, con au
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/Yagamesa/ProyectoFinalVueSebastianEguez
 cd <nombre-del-proyecto>
 ```
 
