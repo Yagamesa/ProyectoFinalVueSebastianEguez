@@ -1,8 +1,12 @@
-# EduApp — Proyecto Final Vue 3
+# Proyecto Final Vue 3
 
-Aplicación web de gestión académica desarrollada con **Vue 3 + Vite**, con autenticación, CRUD completo, relaciones entre entidades y diseño responsivo.
+**Autor:** Sebastian Eguez  
+**Contacto:** 77013637  
 
 ---
+
+## 📌 Descripción
+Este proyecto corresponde al trabajo final del módulo de Vue 3, donde se implementa un sistema de gestión con autenticación, CRUD de entidades relacionadas, rutas protegidas y consumo de API con Axios.
 
 ## Tecnologías utilizadas
 
